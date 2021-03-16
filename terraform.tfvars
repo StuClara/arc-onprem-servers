@@ -1,4 +1,4 @@
-resource_group_name = "arc-hack"
+resource_group_name = "Stuartpcprg"
 
 linux_count  = 1
 linux_prefix = "ubuntu"
